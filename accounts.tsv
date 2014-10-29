@@ -1,0 +1,5 @@
+TOKEN	THEREISAREMOTECOMMANDEXECBUGASWELL	RUXCTF{e0c5dc78-b576-4329-98a6-d069b113c220}
+TEST	TEST	test/test is an invalid account.
+GUEST	GUEST	sorry, the guest/guest account has been disabled.
+ADMIN	ADMIN	Your IP Address has been blocked.
+ROOT	ROOT	Seriously, who uses 'root' as a login for web apps?
